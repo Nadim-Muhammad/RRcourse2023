@@ -1,0 +1,44 @@
+---
+title: "Assignment"
+author: "Nadim Muhammad"
+date: "4/13/2023"
+format: html
+---
+
+# Breaking Bad
+
+## 1. A brief description
+
+Breaking Bad is an American neo-Western crime drama television series created and produced by *Vince Gilligan* for AMC. Set and filmed in Albuquerque, New Mexico, the series follows *Walter White* (*Bryan Cranston*), an underpaid, overqualified, and dispirited high-school chemistry teacher who is struggling with a recent diagnosis of stage-three lung cancer. White turns to a life of crime and partners with a former student, *Jesse Pinkman* (*Aaron Paul*), to produce and distribute methamphetamine to secure his family's financial future before he dies, while navigating the dangers of the criminal underworld. Breaking Bad premiered on AMC on January 20, 2008, and concluded on September 29, 2013, after five seasons consisting of 62 episodes.
+
+## 2. Logo
+
+![Official Breaking Bad Logo.svg](https://upload.wikimedia.org/wikipedia/commons/7/77/Breaking_Bad_logo.svg){alt="Breaking_Bad_logo.svg"}
+
+## 3. Viewership Statistics
+
+| Season | Episodes | Viewers (millions) |
+|:-------|:--------:|-------------------:|
+| 1      |    7     |               1.50 |
+| 2      |    13    |               1.50 |
+| 3      |    13    |               1.56 |
+| 4      |    13    |               1.90 |
+| 5A     |    8     |               2.78 |
+| 5B     |    8     |              10.28 |
+
+## 4. Graph of the viewership
+
+[![Graph.svg](blob:null/433a25a6-6ef8-4dfb-bfa3-8cb8f0219446){alt="Breaking_Bad_Graph.svg"}](/wiki/Breaking_Bad)
+
+MAKE A GRAPH FROM TABLE ABOVE
+
+## 5. Graph of the episode-to-episode ratings
+
+PASTE A GRAPH OR MAKE A TABLE
+
+## 6.
+
+A short description of the observed changes that includes inline references to numbers (e.g. the viewership decreased by insert_calculated_number between seasons 3 and 5).
+
+
+MAKE SURE THAT IT LOOKS NICE.

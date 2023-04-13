@@ -144,9 +144,7 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 <section id="the-yaml-header" class="level2">
 <h2 class="anchored" data-anchor-id="the-yaml-header">The YAML header</h2>
 <p>At the very top. Stores author and document information, configuration, global options, inputs, styles, format specifications, etc. This document uses:</p>
-<pre class="code-block">
-
----
+<pre class="code-block">---
 title: "Quarto"
 author: "Wojciech Hardy"
 date: "4/11/2023"
@@ -154,8 +152,6 @@ format: html
 execute:
   echo: fenced
 ---
-
-
 </pre>
 </section>
 <section id="markdown" class="level2">
@@ -389,7 +385,7 @@ without starting a new paragraph</p>
 <span id="cb7-2"><a href="#cb7-2" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(ggplot2)</span>
 <span id="cb7-3"><a href="#cb7-3" aria-hidden="true" tabindex="-1"></a><span class="in">```</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 <div class="cell-output cell-output-stderr">
-<pre><code>Warning: package 'ggplot2' was built under R version 4.2.3</code></pre>
+<pre><code>Warning: pakiet 'ggplot2' został zbudowany w wersji R 4.2.3</code></pre>
 </div>
 <div class="sourceCode cell-code" id="cb9"><pre class="sourceCode markdown code-with-copy"><code class="sourceCode markdown"><span id="cb9-1"><a href="#cb9-1" aria-hidden="true" tabindex="-1"></a><span class="in">```{r}</span></span>
 <span id="cb9-2"><a href="#cb9-2" aria-hidden="true" tabindex="-1"></a><span class="fu">ggplot</span>(py<span class="sc">$</span>flights, <span class="fu">aes</span>(carrier, arr_delay)) <span class="sc">+</span> <span class="fu">geom_point</span>() <span class="sc">+</span> <span class="fu">geom_jitter</span>()</span>
@@ -671,7 +667,7 @@ without starting a new paragraph</p>
 <span id="cb22-3"><a href="#cb22-3" aria-hidden="true" tabindex="-1"></a><span class="dv">543</span> <span class="sc">+</span> <span class="st">"clearly a text and not a number"</span></span>
 <span id="cb22-4"><a href="#cb22-4" aria-hidden="true" tabindex="-1"></a><span class="in">```</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 <div class="cell-output cell-output-error">
-<pre><code>Error in 543 + "clearly a text and not a number": non-numeric argument to binary operator</code></pre>
+<pre><code>Error in 543 + "clearly a text and not a number": argument nieliczbowy przekazany do operatora dwuargumentowego</code></pre>
 </div>
 </div>
 <p>By default Quarto stops after encountering an error. We can tell it to continue.</p>
