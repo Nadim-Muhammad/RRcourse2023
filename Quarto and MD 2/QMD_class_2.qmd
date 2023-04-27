@@ -27,7 +27,7 @@ Step 1) Run
 Step 2) Edit the YAML options (in notepad, through R, etc.)
 
 | RMD                                                     | Quarto           |
-|:--------------------------------------------------------|:-----------------|
+|:----------------------------------------------------|:-----------------|
 | output:                                                 | format:          |
 | output: html_document                                   | format: html     |
 | output: pdf_document                                    | format: pdf      |

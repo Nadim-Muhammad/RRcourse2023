@@ -5,7 +5,7 @@
 
 library(quarto)
 
-setwd("")
+setwd("C:\\Users\\nm412083\\Desktop\\Reproducible Research\\Repositories\\RRcourse2023\\Quarto and MD 2")
 
 # Converting from Rmd to Qmd
 
